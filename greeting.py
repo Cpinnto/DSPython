@@ -6,3 +6,5 @@
 print("Hello Python DS Developers!!")
 
 print("Another try")
+
+import this 
