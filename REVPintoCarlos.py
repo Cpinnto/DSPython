@@ -44,4 +44,4 @@ def generateReport(vDict, total): # Function that prints the final report in tab
     print(LINE * (len(REPORT_INF[0]) + 1 ))
     # It's probably not very Pythonic, but I avoid using features I'm not comfortable with.
 
-main() # Finally, we called the main function and the IPO starts!
+main() # Finally, we called the main function and the IPO starts!!
